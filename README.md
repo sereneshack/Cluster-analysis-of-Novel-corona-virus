@@ -36,5 +36,4 @@ clusters depending on the state of severity in various states. The severe countr
 medical facilities (ventilators, testing kits, masks etc), treatment etc to reduce number of deceased
 persons. The clusters we have obtained are based on where the covid condition is more worse.
 
-Dataset used: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-
-dataset?select=covid_19_data.csv
+Dataset used: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv
